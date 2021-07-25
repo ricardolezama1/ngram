@@ -1,5 +1,7 @@
 # author: ricardo lezama
 import nltk 
+import re 
+
 
 def find_bigrams(t):
     list = []
