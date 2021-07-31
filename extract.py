@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
 # author: ricardo lezama
 import nltk 
 import re 
